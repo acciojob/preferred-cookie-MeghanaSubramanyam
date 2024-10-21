@@ -7,3 +7,8 @@ body {
   font-size: var(--fontsize);
   color: var(--fontcolor);
 }
+
+form {
+  margin-top: 20px;
+}
+
